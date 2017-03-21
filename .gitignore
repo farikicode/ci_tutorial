@@ -1,0 +1,10 @@
+/nbproject/private/
+/nbproject/
+
+/apps/cache/*
+!/apps/cache/.htaccess
+!/apps/cache/index.html
+
+/files/*
+!/files/.htaccess
+!/files/index.html
