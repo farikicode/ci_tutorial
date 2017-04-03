@@ -401,7 +401,13 @@
                 <i class="fa fa-dashboard"></i> 
                 <span>Dashboard</span>
             </a>
-        </li>                           
+        </li>  
+        <li class="">
+            <a href="<?=site_url('person');?>">
+                <i class="fa fa-user"></i> 
+                <span>Person</span>
+            </a>
+        </li>  
       </ul>
     </section>
     <!-- /.sidebar -->
